@@ -2,7 +2,7 @@
 title: "Probability Practice"
 author: "GW Dean"
 date: "2023-01-08"
-output: html_document
+output: github_document
 ---
 
 ```{r setup, include=FALSE}
